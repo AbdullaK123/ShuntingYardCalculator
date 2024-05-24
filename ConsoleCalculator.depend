@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716562168 source:c:\users\abdul\desktop\c_projects\consolecalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
